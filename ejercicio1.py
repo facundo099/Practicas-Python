@@ -43,3 +43,4 @@ if __name__ == '__main__':
     print("\nEstudiantes ordenados alfabeticamente con el segundo puntaje mas bajo:")
     for student in sorted_students:
         print(student[0])
+
