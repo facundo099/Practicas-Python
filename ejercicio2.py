@@ -13,3 +13,5 @@ if __name__ == '__main__':
         scores = student_marks[query_name]
         average = sum(scores) / len(scores)
         print(f"{average:.2f}")
+        
+#comentario extra
